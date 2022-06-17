@@ -1,1 +1,1 @@
-Simple CRUD application using React, Express
+Simple CRUD application using React, Express and GraphQL
