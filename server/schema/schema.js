@@ -125,7 +125,7 @@ const mutation = new GraphQLObjectType({
 					name: args.name,
 					description: args.description,
 					status: args.status,
-					client: args.clientId
+					clientId: args.clientId
 				});
 				return project.save();
 			}
