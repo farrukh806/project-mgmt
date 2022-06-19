@@ -121,7 +121,6 @@ const AddProjectModal = () => {
 												onChange={(e) =>
 													setStatus(e.target.value)
 												}>
-												<option value='' selected>Select</option>
 												<option value='new'>
 													Not started
 												</option>
